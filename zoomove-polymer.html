@@ -62,11 +62,7 @@ A polymer element to use zoomove jquery plugin
         }
       },
       ready: function() {
-        console.log(this.imagePath);
-        console.log(this.imageCover);
-        console.log(this.imageScale);
         this.async(function() {
-          // console.log(this.$.zoos);
           $(this.$.zoos).ZooMove({
             image: this.imagePath,
            	scale: this.imageScale,

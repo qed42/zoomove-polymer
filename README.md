@@ -48,6 +48,8 @@ And you can now use the tag as follows,
 
 ## Contributing (Issue/PR)
 
+For contributing feel free to create an issue or raise a PR.
+
 
 ## MIT LICENSE
 
